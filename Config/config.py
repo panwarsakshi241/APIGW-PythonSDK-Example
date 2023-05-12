@@ -1,9 +1,9 @@
-RESTAPI= 'qjo82l6xyh'
-PARENTID= 'zpjf3v'
-METHOD= 'POST'
+RESTAPI= 'RESTAPI_ID'
+PARENTID= 'PARENTRESOURCE_ID'
+METHOD= 'METHOD_TYPE'
 AUTHORIZATION= 'None'
-CONNECTION_ID= 't6h4g2'
+CONNECTION_ID= 'VPCLINK_ID
 
 #--------------Authenticator Resource Path------
 AUTH_RESOURCE_PATH=['householdmember','DemoAuthenticator']
-URI= 'https://aspenplus-dev1.nmaspenplus.com/ASPENServices/rest/householdsearch/authenticate'
+URI= 'URI'
