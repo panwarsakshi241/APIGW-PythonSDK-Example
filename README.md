@@ -1,2 +1,2 @@
 # APIGW-PythonSDK-Example
-Creating Rest APIs using Python SDK 
+Creating HTTP Proxy Rest APIs using Python SDK (Boto3)
